@@ -1,3 +1,4 @@
 # testGi
 this is a test
-merge test.
+merge test
+conflict test.
